@@ -28,7 +28,7 @@ Dedicated student from Uttar Pradesh with a strong focus on technical projects, 
 ---
 
 ## 📊 My GitHub Stats
-![Aabid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Aabid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansari-mgkvp7701&show_icons=true&theme=radical)
 
 ---
 
