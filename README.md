@@ -1,6 +1,6 @@
-# Hi there, I'm Aabid! 👋
+# Hi there, I'm Aabid Ansari! 👋
 
-### 🎓 Student at Mahatma Gandhi Kashi Vidyapith (MGKVP)
+### 🎓 Student of BCA at SHEAT Collage Babatput afflicted by Mahatma Gandhi Kashi Vidyapith (MGKVP) 
 Dedicated student from Uttar Pradesh with a strong focus on technical projects, digital administration, and problem-solving.
 
 ---
@@ -21,14 +21,14 @@ Dedicated student from Uttar Pradesh with a strong focus on technical projects, 
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python, HTML, CSS
+- **Languages:** Python, HTML, CSS 
 - **Software:** Excel (Advanced Tables & Sorting), HP x360 Hardware Troubleshooting
 - **Portals:** Scholarship & Welfare Scheme Portals, IGRS Grievance Management
 
 ---
 
 ## 📊 My GitHub Stats
-![Aabid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansari-mgkvp7701&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=Aabid-FR-DEv&show_icons=true&theme=radical
 
 ---
 
