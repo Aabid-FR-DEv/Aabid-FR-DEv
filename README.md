@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Aabid! 👋
 
-<!--
-**Aabid-FR-DEv/Aabid-FR-DEv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Student at Mahatma Gandhi Kashi Vidyapith (MGKVP)
+Dedicated student from Uttar Pradesh with a strong focus on technical projects, digital administration, and problem-solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on academic projects and enhancing my development skills.
+- 💻 Tech Stack: **Python, HTML/CSS, Excel Automation.**
+- 🛠️ Expertise: **Digital Administration, PDF Management, & Data Organization.**
+- ⚡ Fun Fact: I love solving complex digital issues, from hardware fixes to tracking government portal statuses.
+
+---
+
+## 📂 Featured Projects
+- **Online Attendance Management System** – A streamlined way to track and manage student attendance digitally.
+- **URL Detector** – A smart tool designed to identify and analyze web links.
+- **Digital Grievance Tracking** – Experience in managing official documentation and portal-based complaint tracking (IGRS/Jan Sunwai).
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** Python, HTML, CSS
+- **Software:** Excel (Advanced Tables & Sorting), HP x360 Hardware Troubleshooting
+- **Portals:** Scholarship & Welfare Scheme Portals, IGRS Grievance Management
+
+---
+
+## 📊 My GitHub Stats
+![Aabid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+- 🌍 Based in: **Uttar Pradesh, India**
+- 🎓 Roll No: **12424407022 (MGKVP)**
